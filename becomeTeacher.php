@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Become a teacher | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="become teacher">
+	<meta name="description" content="Become teacher with CELTA course">
+</head>
 <style>
 	.content-who-accept ul{
 		line-height: 25px;

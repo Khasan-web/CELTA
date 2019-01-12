@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Contact Us | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="contact celta">
+	<meta name="description" content="contact CELTA to ask questions">
+</head>
 <style>
 	.list-contact i{
 		padding: 0 5px;

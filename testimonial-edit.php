@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
-<script>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Testimonial Edit | Cambridge CELTA - in Uzbekistan</title>
+	<script>
 	var needBg = false;
-</script>
+	</script>
+</head>
 
 <body>
 

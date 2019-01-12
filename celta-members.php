@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>CELTA Members | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="member celta">
+	<meta name="description" content="See the CELTA members">
+</head>
 <script>
 	var needBg = false;
 </script>

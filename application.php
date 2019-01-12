@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Application | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="application celta">
+	<meta name="description" content="apply to CELTA course">
+</head>
 <style>
 	.line{
 		margin: 0 auto;

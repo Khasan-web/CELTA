@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>About Course | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="about celta">
+	<meta name="description" content="Information about CELTA course">
+</head>
 <style>
 
 

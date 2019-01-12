@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
-<style>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Admin panel | Cambridge CELTA - in Uzbekistan</title>
+	<style>
 	.sm{
 		min-width: 80px!important;
 	}
@@ -19,6 +21,8 @@
 <script>
 	var needBg = false;
 </script>
+</head>
+
 <body>
 
 

@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Course Dates and Fees | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="data fees info about course celta">
+	<meta name="description" content="Check all inforamtion about course">
+</head>
 <style>
 	.sm{
 		min-width: 80px!important;

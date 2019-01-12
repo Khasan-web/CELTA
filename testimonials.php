@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Testimonials | Cambridge CELTA - in Uzbekistan</title>
+	<meta name="keywords" content="testimonials celta">
+	<meta name="description" content="Read testimonials of CELTA students">
+</head>
 <style>
 	.sm{
 		min-width: 80px!important;

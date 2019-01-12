@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php require 'includes/head.php'?>
-
+<head>
+	<?php require 'includes/head.php'?>
+	<title>Delete Course | Cambridge CELTA - in Uzbekistan</title>
+</head>
 
 <body>
 
